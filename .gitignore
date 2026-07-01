@@ -1,0 +1,41 @@
+# Node.js / Frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Java / Maven Backend
+backend/target/
+backend/*.jar
+backend/*.war
+*.class
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Coverage reports
+coverage/

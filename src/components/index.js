@@ -1,0 +1,21 @@
+import Pagination from './Pagination';
+
+export { default as SearchBar } from './SearchBar';
+export { default as FilterBar } from './FilterBar';
+export { default as LoadingSpinner } from './LoadingSpinner';
+export { default as EmptyState } from './EmptyState';
+export { default as ConfirmationModal } from './ConfirmationModal';
+export { default as PageHeader } from './PageHeader';
+export { default as ProtectedRoute } from './ProtectedRoute';
+export { default as StatisticsCard } from './StatisticsCard';
+export { default as TransactionCard } from './TransactionCard';
+export { default as ExpenseCard } from './ExpenseCard';
+export { default as IncomeCard } from './IncomeCard';
+export { default as Sidebar } from './Sidebar';
+export { default as Navbar } from './Navbar';
+export { default as Footer } from './Footer';
+export { default as DashboardCards } from './DashboardCards';
+export { default as Pagination } from './Pagination';
+export { default as IncomeExpenseChart } from './charts/IncomeExpenseChart';
+export { default as CategoryPieChart } from './charts/CategoryPieChart';
+export { default as MonthlySpendingChart } from './charts/MonthlySpendingChart';
